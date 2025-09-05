@@ -1,0 +1,2 @@
+# telecom_churn_analysis_project
+This project provides a customer churn analysis for a telecom company using Power BI. It covers data cleaning, transformation, and visualization to identify the key factors influencing churn, such as tenure, monthly charges, contract type, internet services, and customer demographics. The dashboard highlights churn risk, customer segmentation, and the churn risk probability to support data-driven decision-making.
